@@ -1,5 +1,5 @@
 function Feature1() {
-  return <div>Feature1</div>;
+  return <h1>Feature1</h1>;
 }
 
 export default Feature1;
